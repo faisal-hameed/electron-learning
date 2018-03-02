@@ -62,3 +62,11 @@ Create `index.html` file (To start renderer process)
 
 #### Running electron application
 Run `npm start` command from your app directory.
+
+
+### Useful resources
+
+1. Electron API Demos  
+https://github.com/electron/electron-api-demos
+2. Awesome-electron    
+ https://github.com/sindresorhus/awesome-electron#boilerplates
